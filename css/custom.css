@@ -263,7 +263,7 @@ header {
 \*------------------------------------*/
 
 .press-bg {
-	background-color: #F7F7F7;
+	background-color: rgba(0,0,0, .25);
 	height: 208px;
 	position: absolute;
 	top: 0;
